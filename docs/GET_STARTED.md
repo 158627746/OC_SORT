@@ -10,8 +10,8 @@ We introduce the process of getting started on OC-SORT. This instruction is adap
     |        └——————train
     |        └——————test
     └——————crowdhuman
-    |        └——————Crowdhuman_train
-    |        └——————Crowdhuman_val
+    |        └——————CrowdHuman_train
+    |        └——————CrowdHuman_val
     |        └——————annotation_train.odgt
     |        └——————annotation_val.odgt
     └——————MOT20
